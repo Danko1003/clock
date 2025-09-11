@@ -16,6 +16,7 @@ public class ClockDisplay
 {
     private NumberDisplay hours;
     private NumberDisplay minutes;
+    private NumberDisplay digit;
     private String displayString;    // simulates the actual display
     
     /**
@@ -26,6 +27,7 @@ public class ClockDisplay
     {
         hours = new NumberDisplay(24);
         minutes = new NumberDisplay(60);
+        digit = new NumberDisplay(10);
         updateDisplay();
     }
 
