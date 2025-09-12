@@ -91,94 +91,13 @@ Note: This project does not implement adequate handling of errors.
 
 
 
-36-
+36-x
 
 
 
-37-
+37-The option thats stores values till 12 is easier to make yet the 24 hour version is harder but more efficient allowing to switch between the 12 hour mode and 24 hour mode with ease.
 
 
 
-38-
-
-
-
-39-
-
-
-
-40-
-
-
-
-41-
-
-
-
-42-
-
-
-
-43-
-
-
-
-44-
-
-
-
-45-
-
-
-
-46-
-
-
-
-47-
-
-
-
-48-
-
-
-
-49-
-
-
-
-50-
-
-
-
-51-
-
-
-
-52-
-
-
-
-53-
-
-
-
-54-
-
-
-
-55-
-
-
-
-56-
-
-
-
-57-
-
-
-
-58-
 
 

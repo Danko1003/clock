@@ -25,9 +25,9 @@ public class ClockDisplay
      */
     public ClockDisplay()
     {
-        hours = new NumberDisplay(24);
-        minutes = new NumberDisplay(60);
-        digit = new NumberDisplay(10);
+        hours = new NumberDisplay(24,1);
+        minutes = new NumberDisplay(60,0);
+        digit = new NumberDisplay(10, 0);
         updateDisplay();
     }
 
@@ -38,8 +38,8 @@ public class ClockDisplay
      */
     public ClockDisplay(int hour, int minute)
     {
-        hours = new NumberDisplay(24);
-        minutes = new NumberDisplay(60);
+        hours = new NumberDisplay(13,1);
+        minutes = new NumberDisplay(60,0);
         setTime(hour, minute);
     }
 
