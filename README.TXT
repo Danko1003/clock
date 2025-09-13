@@ -96,8 +96,9 @@ Note: This project does not implement adequate handling of errors.
 
 
 37-The option thats stores values till 12 is easier to make yet the 24 hour version is harder but more efficient allowing to switch between the 12 hour mode and 24 hour mode with ease.
+51-x
 
-
+52-no result difference, gives same thing
 
 
 

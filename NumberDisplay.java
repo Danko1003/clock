@@ -42,13 +42,8 @@ public class NumberDisplay
      */
     public String getDisplayValue()
     {
-        if(value < 10) {
-            return "0" + value;
-        }
-        else {
-            return "" + value;
-        }
-    }
+        return String.format("%02d", value);
+    }  
 
     /**
      * Set the value of the display to the new specified value. If the new
